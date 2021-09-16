@@ -51,7 +51,7 @@ class YTDLSource(discord.PCMVolumeTransformer):
 
 client = commands.Bot(command_prefix='?')
 
-status = ['Jamming out to music!', 'Eating!', 'Sleeping!']
+status = ['Jamming out to music!', 'Jerichos Dick', 'Sleeping!']
 
 @client.event
 async def on_ready():
